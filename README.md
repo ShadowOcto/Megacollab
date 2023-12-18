@@ -6,7 +6,7 @@
 #### [Starting Timestamp] - [Ending Timestamp] ([Section Runtime] | [Creator]
 0:00 - 0:11 (0:11) | Introduction\
 0:11 - 0:23 (0:13)  | Free\
-0:23 - 0:45 (0:22)  | Free\
+0:23 - 0:45 (0:22)  | Zedacat\
 0:45 - 1:08 (0:23) | Free\
 1:08 - 1:30 (0:22) | Free\
 1:30 - 1:45 (0:15) | Free\
