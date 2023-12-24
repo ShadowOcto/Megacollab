@@ -2,6 +2,9 @@
 ## Song: EXiT this Earth's Atomosphere
 ## Song URL: https://www.youtube.com/watch?v=OTRi_G8eew4
 
+*You can use any client, on any server that doesn't have a history of striking videos.*
+*Include song in your part to make syncing easier*
+
 ### Parts:
 #### [Starting Timestamp] - [Ending Timestamp] ([Section Runtime] | [Creator]
 0:00 - 0:11 (0:11) | Introduction\
