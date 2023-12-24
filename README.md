@@ -6,7 +6,7 @@
 *Include song in your part to make syncing easier*
 
 ### Parts:
-#### [Starting Timestamp] - [Ending Timestamp] ([Section Runtime] | [Creator]
+#### [Starting Timestamp] - [Ending Timestamp] ([Section Runtime]) | [Creator]
 0:00 - 0:11 (0:11) | Introduction\
 0:11 - 0:23 (0:13)  | Free\
 0:23 - 0:45 (0:22)  | Zedacat\
