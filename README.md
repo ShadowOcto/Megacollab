@@ -9,7 +9,7 @@
 #### [Starting Timestamp] - [Ending Timestamp] ([Section Runtime]) | [Creator]
 0:00 - 0:11 (0:11) | Introduction\
 0:11 - 0:23 (0:13)  | nullptr ✓\
-0:23 - 0:45 (0:22)  | Zedacat\
+0:23 - 0:45 (0:22)  | Zedacat ✓\
 0:45 - 1:08 (0:23) | Zeyhu ✓\
 1:08 - 1:30 (0:22) | bypassingnuts ✓\
 1:32 - 1:46 (0:15) | Cherry\
